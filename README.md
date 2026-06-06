@@ -48,26 +48,12 @@ The dataset contains employee-level information such as:
 
 ---
 
-## 📸 Dashboard Preview
-
-![HR Dashboard](dashboard.png)
-
----
-
 ## 💡 Key Insights
 
 * Highest attrition is observed in the R&D department
 * Majority of employees are in the 25–34 age group
 * Job satisfaction plays a significant role in employee retention
 * Certain education fields show higher attrition trends
-
----
-
-## 🚀 How to Use This Project
-
-1. Download the `.pbix` file from this repository
-2. Open it using Power BI Desktop
-3. Interact with filters and visuals to explore insights
 
 ---
 
